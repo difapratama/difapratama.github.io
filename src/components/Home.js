@@ -14,16 +14,16 @@ const Home = () => {
             I’m Difa Pratama<span class="dot"></span>
           </h1>
           <p class="mb-4">
-            He lay on his armour-like back, and if he lifted his head a little
-            he could see his brown belly, slightly domed and divided by arches
-            into stiff sections.
+            Halo, saya Difa! Saya mempunyai passion di dunia dunia pemrograman.
+            Saya suka belajar banyak hal-hal baru, apalagi tentang teknologi
+            informasi.
           </p>
           <Link to="/" className="btn btn-default btn-lg mr-3">
             <i class="fa fa-th"></i>View Portfolio
           </Link>
           <div
             class="spacer d-md-none d-lg-none d-sm-none"
-            data-height="10"
+            style={{ height: "10px" }}
           ></div>
           <Link to="/" class="btn btn-border-light btn-lg">
             <i class="fa fa-envelope"></i>Hire me

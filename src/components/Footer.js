@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div>
+    <>
       <div class="footer mt-auto">
         <ul class="social-icons list-inline">
           <li class="list-inline-item">
@@ -34,7 +34,7 @@ const Footer = () => {
 
         <span class="copyright">© 2020 Difa Pratama</span>
       </div>
-    </div>
+    </>
   );
 };
 

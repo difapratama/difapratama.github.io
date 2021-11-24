@@ -10,7 +10,7 @@ const About = () => {
         <div class="row">
           <div class="col-md-3">
             <img
-              src="https://res.cloudinary.com/octavarium/image/upload/v1637652743/Portfolio%20File/images/about_orrhuz.png"
+              src="https://res.cloudinary.com/octavarium/image/upload/v1637755302/Portfolio%20File/images/difa150_l28egc.png"
               alt="about"
             />
           </div>
